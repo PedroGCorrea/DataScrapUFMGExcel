@@ -4,7 +4,7 @@ So uma forma de organizar os dados da planilha que o MEC divulgou do SISU.
 
 Os cursos estão indexados cada um com sua numeração respecitva, sendo ela:
 
-0-ABI - CIÊNCIAS BIOLÓGICAS
+0-ABI - CIÊNCIAS BIOLÓGICAS \n
 1-ABI - CIÊNCIAS DA NATUREZA E MATEMÁTICA
 2-ABI - CIÊNCIAS SOCIAIS
 3-ABI - FILOSOFIA
